@@ -172,5 +172,7 @@ export {
   SharedElementRouteGuard,
   NuxtSharedElementRouteGuard,
   sharedElementMixin,
-  ISharedElementOptions
+  ISharedElementOptions,
+  insertedMounted,
+  $createIllusoryElement,
 }
